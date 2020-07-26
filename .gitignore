@@ -4,6 +4,7 @@ target/**
 *.war
 *.ear
 *.class
+*.idea
 
 # eclipse specific
 *.pydevproject
@@ -28,7 +29,7 @@ local.properties
 logs
 *.log
 
-# Ignore IDE specific files
+# Ignore IDE specific filesc
 .idea/
 .vscode/
 *.sw*
